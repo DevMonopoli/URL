@@ -7,7 +7,16 @@
       "port": 1225,
       "online": 0,
       "maxplayers": 300,
-      "password": true
+      "password": false
+    },
+    {
+      "number": 1,
+      "name": "Realistic City| Test",
+      "ip": "141.95.190.140",
+      "port": 1773,
+      "online": 1435,
+      "maxplayers": 1500,
+      "password": false
     }
   ]
 }
