@@ -11,12 +11,12 @@
     },
     {
       "number": 1,
-      "name": "Realistic City| Test",
-      "ip": "141.95.190.140",
-      "port": 1773,
+      "name": "TRAPEX ONLINE | #0 (TEST SERVER)",
+      "ip": "uknown",
+      "port": 1225,
       "online": 1435,
       "maxplayers": 1500,
-      "password": false
+      "password": true
     }
   ]
 }
