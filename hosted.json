@@ -5,8 +5,8 @@
       "name": "Trapex Online | #1",
       "ip": "51.75.232.71",
       "port": 1225,
-      "online": 0,
-      "maxplayers": 300,
+      "online": %,
+      "maxplayers": 50,
       "password": false
     },
     {
@@ -14,8 +14,8 @@
       "name": "TRAPEX ONLINE | #0 (TEST SERVER)",
       "ip": "uknown",
       "port": 1225,
-      "online": 1435,
-      "maxplayers": 1500,
+      "online": %,
+      "maxplayers": 5,
       "password": true
     }
   ]
