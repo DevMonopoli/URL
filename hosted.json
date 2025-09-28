@@ -7,7 +7,7 @@
       "port": 1225,
       "online": 0,
       "maxplayers": 50,
-      "password": false
+      "password": true
     },
     {
       "number": 1,
