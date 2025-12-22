@@ -1,0 +1,22 @@
+{
+    "query": [
+        {
+            "number": 0,
+            "name": "Brasil Fortal City",
+            "ip": "135.148.153.96",
+            "port": 7777,
+            "online": 0,
+            "maxplayers": 300,
+            "password": false
+        },
+        {
+            "number": 1,
+            "name": "Brasil Play Fortal",
+            "ip": "131.196.196.85",
+            "port": 7777,
+            "online": 1,
+            "maxplayers": 100,
+            "password": false
+        }
+    ]
+}
