@@ -4,13 +4,15 @@
       "title": "Обновление сервера",
       "description": "Сегодня вышло большое обновление сервера с новыми возможностями и исправлениями ошибок.",
       "date": "15.01.2026",
-      "image": "https://raw.githubusercontent.com/DevMonopoli/URL/main/as1.jpg"
+      "type": "image",
+      "media": "https://raw.githubusercontent.com/DevMonopoli/URL/main/as1.jpg"
     },
     {
       "title": "Новый ивент",
       "description": "Скоро начнется новый ивент с крутыми наградами!",
       "date": "14.01.2026",
-      "image": ""
+      "type": "video",
+      "media": "https://raw.githubusercontent.com/DevMonopoli/URL/main/san.mp4"
     }
   ]
 }
